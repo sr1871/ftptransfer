@@ -1,0 +1,21 @@
+{
+    "name": "sr1871/ftp-transfer",
+    "description": "transfer of ftp",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "sergio alvarado",
+            "email": "sergioal18v@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "sr1871\\ftptransfer\\": ""
+        }
+    }
+}
